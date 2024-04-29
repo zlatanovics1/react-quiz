@@ -10,12 +10,11 @@ local json server is used for fetching questions...
 
 ## INSTALL
 
-**_ install dependencies _**
-bash```
+**install dependencies**
+```bash
 npm i
 
 ````
-
-bash```
+```bash
 npm start
 ````

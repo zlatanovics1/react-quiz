@@ -1,6 +1,6 @@
 # ABOUT
 
-A Simple React project.
+React project.
 A quiz app.
 A state manager practice app.
 you can continue... :)

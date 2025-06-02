@@ -1,20 +1,21 @@
 # ABOUT
 
-React project.
-A quiz app.
-A state manager practice app.
-you can continue... :)
+React Quiz project for mastering state management. Test your knowledge of react in one go.
 
-**_NOTE_**
-local json server is used for fetching questions...
+<img width="1510" alt="image" src="https://github.com/user-attachments/assets/b071e3eb-4fc8-4432-8911-3940fc502286" />
 
-## INSTALL
+
+## INSTALLING
 
 **install dependencies**
-```bash
-npm i
-
-````
-```bash
+```
+npm install
+```
+```
 npm start
-````
+```
+
+### NOTE
+Local json server is used for fetching questions.
+
+run ```npm run server``` to start json server
